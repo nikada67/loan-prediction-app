@@ -1,0 +1,7 @@
+streamlit
+joblib==1.1.1
+pandas
+scikit-learn==1.2.1
+numpy
+matplotlib
+cd "C:\Users\hadif\Downloads\MLDPP\mldp project\loan-prediction-app"
